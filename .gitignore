@@ -95,3 +95,4 @@ $RECYCLE.BIN/
 *.bak
 *.history
 appsettings.Development.json
+.DS_Store
